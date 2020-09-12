@@ -1,0 +1,29 @@
+{
+  "name": "speed-bot",
+  "version": "1.0.0",
+  "description": "SpeedBot is a fun bot with features you are guaranteed to love.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptLearner815/speed-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "discord-bot"
+  ],
+  "author": "Dean Summer <deanlovesmargie@gmail.com> (https://javascriptlearner815.github.io/SpeedoThreeSixty/home.html)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/JavascriptLearner815/speed-bot/issues"
+  },
+  "homepage": "https://github.com/JavascriptLearner815/speed-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.8.1"
+  }
+}

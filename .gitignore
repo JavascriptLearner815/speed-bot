@@ -1,0 +1,10 @@
+.env
+/private
+/node_modules
+/.vscode
+.vscode
+settings.json
+config.json
+.eslintrc.json
+.eslintrc
+.eslint
